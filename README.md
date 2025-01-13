@@ -11,9 +11,9 @@
 - we can create new column based on new conditions like ratings (good, bad, average) Add Column tab => Conditional column
 
 ##Data transforming employee layoff table - You can hover blow column header, to see status of column, if there are some falsie values it will display - Other way is go to View tab and click column quality option
-![alt text](image.png) - To Capitalize/lowercase values => goto transform => format => - To get total employees => Total laid off / percentage laid off - To get Remaining employee, Add column => custom column and add formula => total emp - total laid off employee
+![alt text](notes/image.png) - To Capitalize/lowercase values => goto transform => format => - To get total employees => Total laid off / percentage laid off - To get Remaining employee, Add column => custom column and add formula => total emp - total laid off employee
 To create Group to view summarized view
 home=> group by
-![alt text](image-1.png)
+![alt text](notes/image-1.png)
 And hit ok it will show result like this
-![alt text](image-2.png)
+![alt text](notes/image-2.png)
